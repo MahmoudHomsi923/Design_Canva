@@ -2,13 +2,13 @@
 
 - Logos:
 
-<img width="747" height="157" alt="Screenshot 2026-10-02 000034" src="https://github.com/user-attachments/assets/2668bc96-a2ba-4774-a4d5-10c1d9962f9e" />
+1- <img width="747" height="157" alt="Screenshot 2026-10-02 000034" src="https://github.com/user-attachments/assets/2668bc96-a2ba-4774-a4d5-10c1d9962f9e" />
 
 
-<img width="741" height="497" alt="Screenshot 2026-10-01 235927" src="https://github.com/user-attachments/assets/f9725d3a-8fb8-479a-b3ef-6e83c831be2d" />
+2- <img width="741" height="497" alt="Screenshot 2026-10-01 235927" src="https://github.com/user-attachments/assets/f9725d3a-8fb8-479a-b3ef-6e83c831be2d" />
 
 
-![1](https://github.com/user-attachments/assets/ca61182c-2f3c-442d-bc82-d85c9480f84b)
+3- ![1](https://github.com/user-attachments/assets/ca61182c-2f3c-442d-bc82-d85c9480f84b)
 
 
 
